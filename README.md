@@ -39,14 +39,13 @@
 
 
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
+:zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
 
-</details>
+
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yash-coded)](https://github.com/yash-coded)
 
