@@ -6,7 +6,7 @@
 ## I'm a Frontend Developer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute more to Open Source projects, learn .NET core framework
+- 🥅 2021 Goals: Learn webXR and buid augmented reality Apps.
 
 ### Connect with me:
 
