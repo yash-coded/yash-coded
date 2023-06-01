@@ -1,7 +1,4 @@
-### Hi there, I'm [Yash Patel][website] 👋
-
-[![Website](https://img.shields.io/website?label=yashppatel.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://yashppatel.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/yash_scans?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fyash-coded&screen_name=yash_scans)
+### Hi there, I'm Yash
 
 ## I'm a Full Stack Engineer!!
 
