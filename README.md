@@ -3,10 +3,9 @@
 [![Website](https://img.shields.io/website?label=yashppatel.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://yashppatel.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/yash_scans?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fyash-coded&screen_name=yash_scans)
 
-## I'm a Frontend Developer!!
+## I'm a Full Stack Engineer!!
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Learn webXR and buid augmented reality Apps.
+- 🌱 I’m currently learning everything 📖
 
 ### Connect with me:
 
@@ -48,8 +47,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yash-coded)](https://github.com/yash-coded)
 
-[website]: https://yashppatel.com
-[instagram]: https://www.instagram.com/yashh.js/
+
 [linkedin]: https://www.linkedin.com/in/yash-patel-4831b311a/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
